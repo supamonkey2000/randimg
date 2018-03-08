@@ -1,0 +1,4 @@
+Version 1.0.0
+- ADDED ability to change minimum and maximum RGB values
+- ADDED ability to change time-step (1ms to 1000ms)
+- ADDED resizable window

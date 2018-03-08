@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="randimg:jar">
+    <output-path>$PROJECT_DIR$/bin/</output-path>
+    <root id="archive" name="randimg.jar">
+      <element id="module-output" name="randimg" />
+    </root>
+  </artifact>
+</component>
